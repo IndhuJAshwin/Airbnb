@@ -149,7 +149,7 @@ if SELECT == "Contact":
     description = "An Aspiring BUSINESS ANALYST..!"
     social_media = {
         "GITHUB": "https://github.com/Indhumathi/GUVI-CAPSTONE-PROJECTS",
-        "LINKEDIN": "https://www.linkedin.com/in/indhujashwin-bairavan-434864196/"}
+        "LINKEDIN": "https://www.linkedin.com/in/indhujashwin-434864196/"}
 
     col1, col2 = st.columns(2)
     col1.image(Image.open("C:\\Users\\arunk\\OneDrive\\Desktop\\passpoer size photo.jpg"), width=300)
